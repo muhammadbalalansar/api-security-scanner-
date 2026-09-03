@@ -7,7 +7,8 @@
 ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
 ```
 
-**Muhammad Balal Ansar (Cyber Security Expert) 
+**Muhammad Balal Ansar (Cyber Security Expert)**
+
 [![Cybersecurity Projects](https://img.shields.io/badge/Cybersecurity--Projects-Project%20%231-red?style=flat&logo=github)](https://github.com/CarterPerez-dev/Cybersecurity-Projects/tree/main/PROJECTS/intermediate/api-security-scanner)
 [![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)

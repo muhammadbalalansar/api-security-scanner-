@@ -54,7 +54,7 @@ Visit `http://localhost:8080` to open the dashboard.
 >
 > Install: `curl -sSf https://just.systems/install.sh | bash -s -- --to ~/.local/bin`
 
-## Stack
+## Stack:
 
 **Backend:** FastAPI, SQLAlchemy, PostgreSQL, Alembic, httpx, aiohttp
 

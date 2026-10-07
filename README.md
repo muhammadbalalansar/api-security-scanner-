@@ -37,7 +37,7 @@
 - Scans REST APIs against OWASP API Security Top 10 vulnerability categories
 - Tests for authentication bypass, injection flaws, IDOR, and rate limiting weaknesses
 - SQLi, authentication, IDOR, and rate limit scanner modules with configurable payloads
-- 
+  
 - JWT auth with bcrypt password hashing and session management
 - Scan history tracking with detailed vulnerability reports per endpoint
 - Full React dashboard for configuring scans and reviewing results

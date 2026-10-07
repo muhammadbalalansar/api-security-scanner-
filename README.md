@@ -41,7 +41,7 @@
 - Scan history tracking with detailed vulnerability reports per endpoint
 - Full React dashboard for configuring scans and reviewing results
 
-## Quick Start
+## Quick Start:
 
 ```bash
 docker compose up -d

@@ -60,7 +60,7 @@ Visit `http://localhost:8080` to open the dashboard.
 
 **Frontend:** React, TypeScript, Vite
 
-## Learn
+## Learn:
 
 This project includes step-by-step learning materials covering security theory, architecture, and implementation.
 

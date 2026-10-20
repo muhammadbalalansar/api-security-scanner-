@@ -32,7 +32,7 @@
 
 *Learn docs here: [learn modules](#learn).*
 
-## What It Does
+## What It Does:
 
 - Scans REST APIs against OWASP API Security Top 10 vulnerability categories
 - Tests for authentication bypass, injection flaws, IDOR, and rate limiting weaknesses
